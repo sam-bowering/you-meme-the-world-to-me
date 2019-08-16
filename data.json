@@ -2,7 +2,7 @@
     "personInfo": [
         {
             "name": "",
-            "choices": []
+            "choices": ["scene1", "scenet2", "scene3"]
         }
     ],
     "outputImages": [
@@ -14,7 +14,8 @@
             },
             "villains": {
                 "thanos": "img.file",
-                "proxima-midnight": "img.file"
+                "proxima-midnight": "img.file",
+                ""
 
         }          
         }        
