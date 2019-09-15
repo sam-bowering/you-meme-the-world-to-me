@@ -1,0 +1,23 @@
+{
+    "personInfo": [
+        {
+            "name": "",
+            "choices": ["scene1", "scenet2", "scene3"]
+        }
+    ],
+    "outputImages": [
+        {
+            "heroes": {
+                "hulk": "img.file",
+                "thor": "img.file",
+                "scarlet-witch": "img.file"
+            },
+            "villains": {
+                "thanos": "img.file",
+                "proxima-midnight": "img.file",
+                ""
+
+        }          
+        }        
+    ]
+}
